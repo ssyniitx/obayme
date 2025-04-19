@@ -1,2 +1,2 @@
 # obayme
-#serv00不能注册了
+# serv00不能注册了

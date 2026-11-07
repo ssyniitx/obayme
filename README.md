@@ -18,7 +18,7 @@ ProjectName and Description
 
 <p align="center">
   <a href="https://github.com/ssyniitx/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/8AC91D649208F4E6C1E4342016FB6304.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">"完美的"README模板</h3>

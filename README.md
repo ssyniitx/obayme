@@ -17,7 +17,7 @@ ProjectName and Description
 <br />
 
 <p align="center">
-  <a href="https://github.com/ssyniitx/Best_README_template/">
+  <a href="https://github.com/ssyniitx/obayme/">
     <img src="images/8AC91D649208F4E6C1E4342016FB6304.gif" alt="Logo" width="200" height="200">
   </a>
 
@@ -25,14 +25,14 @@ ProjectName and Description
   <p align="center">
     一个"完美的"README模板去快速开始你的项目！
     <br />
-    <a href="https://github.com/ssyniitx/Best_README_template"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/ssyniitx/obayme"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ssyniitx/Best_README_template">查看Demo</a>
+    <a href="https://github.com/ssyniitx/obayme">查看Demo</a>
     ·
-    <a href="https://github.com/ssyniitx/Best_README_template/issues">报告Bug</a>
+    <a href="https://github.com/ssyniitx/obayme/issues">报告Bug</a>
     ·
-    <a href="https://github.com/ssyniitx/Best_README_template/issues">提出新特性</a>
+    <a href="https://github.com/ssyniitx/obayme/issues">提出新特性</a>
   </p>
 
 </p>
@@ -57,7 +57,7 @@ ProjectName and Description
 
 ### 上手指南
 
-请将所有链接中的“ssyniitx/Best_README_template”改为“your_github_name/your_repository”
+请将所有链接中的“ssyniitx/obayme”改为“your_github_name/your_repository”
 
 
 
@@ -72,7 +72,7 @@ ProjectName and Description
 2. Clone the repo
 
 ```sh
-git clone https://github.com/ssyniitx/Best_README_template.git
+git clone https://github.com/ssyniitx/obayme.git
 ```
 
 ### 文件目录说明
@@ -104,7 +104,7 @@ filetree
 
 ### 开发的架构 
 
-请阅读[ARCHITECTURE.md](https://github.com/ssyniitx/Best_README_template/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
+请阅读[ARCHITECTURE.md](https://github.com/ssyniitx/obayme/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
 
 ### 部署
 
@@ -147,7 +147,7 @@ X:xxxx  &ensp; Telegram:xxxxxx
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/ssyniitx/Best_README_template/blob/master/LICENSE.txt)
+该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/ssyniitx/obayme/blob/master/LICENSE.txt)
 
 ### 鸣谢
 
@@ -160,17 +160,17 @@ X:xxxx  &ensp; Telegram:xxxxxx
 - [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
 
 <!-- links -->
-[your-project-path]:ssyniitx/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/ssyniitx/Best_README_template.svg?style=flat-square
-[contributors-url]: https://github.com/ssyniitx/Best_README_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ssyniitx/Best_README_template.svg?style=flat-square
-[forks-url]: https://github.com/ssyniitx/Best_README_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/ssyniitx/Best_README_template.svg?style=flat-square
-[stars-url]: https://github.com/ssyniitx/Best_README_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ssyniitx/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/ssyniitx/Best_README_template.svg
-[license-shield]: https://img.shields.io/github/license/ssyniitx/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/ssyniitx/Best_README_template/blob/master/LICENSE.txt
+[your-project-path]:ssyniitx/obayme
+[contributors-shield]: https://img.shields.io/github/contributors/ssyniitx/obayme.svg?style=flat-square
+[contributors-url]: https://github.com/ssyniitx/obayme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ssyniitx/obayme.svg?style=flat-square
+[forks-url]: https://github.com/ssyniitx/obayme/network/members
+[stars-shield]: https://img.shields.io/github/stars/ssyniitx/obayme.svg?style=flat-square
+[stars-url]: https://github.com/ssyniitx/obayme/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ssyniitx/obayme.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/ssyniitx/obayme.svg
+[license-shield]: https://img.shields.io/github/license/ssyniitx/obayme.svg?style=flat-square
+[license-url]: https://github.com/ssyniitx/obayme/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ssyniitx
 
